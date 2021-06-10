@@ -6,3 +6,7 @@ This project is divided into 3 parts:
 1. Use of MapReduce for PageRank exercice
 2. Use of Asyncio for Bar-Server exercice
 3. Use of MultiThreading to run multiple calculations at the same time
+
+In collaboration with Philippine Renaudin
+Université d'Angers
+Masters Data Science 2020-2021
